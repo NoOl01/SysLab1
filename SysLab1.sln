@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysLab1", "SysLab1\SysLab1.csproj", "{4FB88868-91BD-4AEA-81E4-BE5BBF2D495B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB88868-91BD-4AEA-81E4-BE5BBF2D495B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB88868-91BD-4AEA-81E4-BE5BBF2D495B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB88868-91BD-4AEA-81E4-BE5BBF2D495B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB88868-91BD-4AEA-81E4-BE5BBF2D495B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
